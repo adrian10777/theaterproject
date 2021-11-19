@@ -139,6 +139,12 @@ background-color:rgb(241, 240, 240);
     padding-left:100px;
 }
 
+.footer{
+    width: 100%;
+    position: absolute;
+    left: 0px;
+}
+
 
 
 
